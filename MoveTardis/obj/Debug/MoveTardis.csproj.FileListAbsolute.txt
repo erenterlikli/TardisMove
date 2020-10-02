@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\MoveTardis\MoveTardis\bin\Debug\MoveTardis.exe.config
+C:\Users\Eren\source\repos\MoveTardis\MoveTardis\bin\Debug\MoveTardis.exe
+C:\Users\Eren\source\repos\MoveTardis\MoveTardis\bin\Debug\MoveTardis.pdb
+C:\Users\Eren\source\repos\MoveTardis\MoveTardis\obj\Debug\MoveTardis.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\MoveTardis\MoveTardis\obj\Debug\MoveTardis.Form1.resources
+C:\Users\Eren\source\repos\MoveTardis\MoveTardis\obj\Debug\MoveTardis.Properties.Resources.resources
+C:\Users\Eren\source\repos\MoveTardis\MoveTardis\obj\Debug\MoveTardis.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\MoveTardis\MoveTardis\obj\Debug\MoveTardis.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\MoveTardis\MoveTardis\obj\Debug\MoveTardis.exe
+C:\Users\Eren\source\repos\MoveTardis\MoveTardis\obj\Debug\MoveTardis.pdb
